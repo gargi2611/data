@@ -1,0 +1,20 @@
+<color-palette name="Support Dashboard" type="ordered-diverging">
+ <color>#1B3A6B</color> <!-- Deep Navy -->
+ <color>#2E6DA4</color> <!-- Corporate Blue -->
+ <color>#5BAFD6</color> <!-- Sky Blue -->
+ <color>#A8D8EA</color> <!-- Light Blue -->
+ <color>#F7F7F7</color> <!-- White/Neutral -->
+ <color>#FFD166</color> <!-- Yellow Warning -->
+ <color>#F4845F</color> <!-- Orange Alert -->
+ <color>#E63946</color> <!-- Red Critical -->
+ <color>#2A9D8F</color> <!-- Teal Positive -->
+</color-palette>
+<color-palette name="Priority Traffic Light" type="categorical">
+ <color>#2A9D8F</color> <!-- Green = Low -->
+ <color>#FFD166</color> <!-- Yellow = Medium -->
+ <color>#E63946</color> <!-- Red = High --></color-palette>
+<color-palette name="Sentiment Palette" type="categorical">
+ <color>#E63946</color> <!-- Red = Negative -->
+ <color>#ADB5BD</color> <!-- Gray = Neutral -->
+ <color>#2A9D8F</color> <!-- Teal = Positive -->
+</color-palette>
